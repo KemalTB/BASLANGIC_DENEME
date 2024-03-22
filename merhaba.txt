@@ -20,3 +20,4 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/KemalTB/limonata2.git
    63fa811..707c098  main -> main
 
+Devami ders videosunu izleyince
