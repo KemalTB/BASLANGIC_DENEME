@@ -1,1 +1,22 @@
 Deneme kodlari
+ktolg@MSI MINGW64 ~/Desktop/limonata2 (limon)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+ktolg@MSI MINGW64 ~/Desktop/limonata2 (main)
+$ git merge limon
+Updating 63fa811..707c098
+Fast-forward
+ limonata.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+ktolg@MSI MINGW64 ~/Desktop/limonata2 (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Writing objects: 100% (3/3), 280 bytes | 280.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/KemalTB/limonata2.git
+   63fa811..707c098  main -> main
+
