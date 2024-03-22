@@ -22,3 +22,4 @@ To https://github.com/KemalTB/limonata2.git
 
 Devami ders videosunu izleyince
 commit ekle
+commit ekle1
