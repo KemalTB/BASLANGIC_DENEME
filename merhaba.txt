@@ -21,3 +21,4 @@ To https://github.com/KemalTB/limonata2.git
    63fa811..707c098  main -> main
 
 Devami ders videosunu izleyince
+commit ekle
